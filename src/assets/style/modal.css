@@ -1,0 +1,13 @@
+.modal {
+    background-color: darkred;
+    padding: 20px;
+    position: fixed;
+    top: 0;
+    right: 0; 
+    min-height: 200px;
+    min-width: 300px;
+    color: white;
+    font-family: sans-serif; 
+    overflow-y: auto; 
+    z-index: 1000;
+}

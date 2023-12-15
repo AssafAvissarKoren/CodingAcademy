@@ -1,0 +1,18 @@
+.animal-list-table {
+    background-color: #8B0000;
+    color: white;
+    border-radius: 5px;
+    border-spacing: 0;
+    width: 100%;
+  }
+  
+  .animal-list-cell {
+    padding: 10px;
+    border: 1px solid #000000;
+    text-align: left;
+  }
+  
+  .animal-list-header {
+    font-size: 24px;
+  }
+  

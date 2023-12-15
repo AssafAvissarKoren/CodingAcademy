@@ -1,0 +1,11 @@
+.countdown {
+  background-color: black;
+  border: 2px solid yellow;
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 24px;
+  color: yellow;
+  border-radius: 5px;
+  width: 150px;
+  text-align: center;
+}

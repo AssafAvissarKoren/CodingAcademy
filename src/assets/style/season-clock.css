@@ -1,0 +1,18 @@
+.season-clock {
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+    background-color: #eee;
+    color: #333;
+  }
+  
+  .dark {
+    background-color: #333;
+    color: #eee;
+  }
+  
+  .season-image {
+    max-width: 100%;
+  }
+  

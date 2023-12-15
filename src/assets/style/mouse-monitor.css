@@ -1,0 +1,15 @@
+/* assets/style/mouse-monitor.css */
+.mouse-monitor {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    background: black;
+    color: white;
+    padding: 10px;
+    min-width: 220px;
+  }
+  
+  .mouse-monitor h1, .mouse-monitor h2 {
+    margin: 0;
+  }
+  
